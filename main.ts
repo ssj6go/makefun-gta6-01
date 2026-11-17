@@ -1,3 +1,7 @@
+// SOLMARA — Streets of the Sun: an original open-world crime game for the
+// make.fun "Make GTA 6" bounty. The program below is the kit's plumbing:
+// it copies game/ and screenshots/ to /output and writes dossier.json.
+//
 // A working gta6-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
